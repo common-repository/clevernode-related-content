@@ -1,0 +1,256 @@
+# Copyright (C) 2023 Metup s.r.l.
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: CleverNode Related Content 1.1.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/clevernode-related-content\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-20T12:49:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: clevernode-related-content\n"
+
+#. Plugin Name of the plugin
+#: inc/Plugin_Setup.php:268
+msgid "CleverNode Related Content"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://clevernode.it/"
+msgstr ""
+
+#. Description of the plugin
+msgid "CleverNode Related Content is a semantic correlation service that allows you to place a collection of related articles on your WordPress site."
+msgstr ""
+
+#. Author of the plugin
+msgid "Metup s.r.l."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://metup.it/"
+msgstr ""
+
+#. translators: error notice content
+#: inc/Classes/Admin_Notices.php:58
+msgid "<div class=\"%1$s notice is-dismissible clevernode-notice\"><p><strong>Error %2$s</strong>: %3$s</p></div>"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:498
+msgid "Not a subscriber yet?"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:499
+msgid "Fill the form to request a free account to our service."
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:503
+#: inc/Classes/Settings_API_Fields.php:504
+msgid "Contact Name"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:507
+#: inc/Classes/Settings_API_Fields.php:508
+msgid "Company"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:511
+#: inc/Classes/Settings_API_Fields.php:512
+msgid "Contact Email"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:518
+msgid "<small>I accept the terms and conditions of the <a href=\"https://clevernode.it/privacy-policy/\" target=\"_blank\">Privacy Policy</a></small>."
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:526
+msgid "Send request"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:543
+msgid "Connect your site to CleverNode"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:544
+msgid "Simply click on the button below and get related content results."
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:549
+msgid "Setup connection"
+msgstr ""
+
+#. translators: CleverNode Support Team
+#: inc/Classes/Settings_API_Fields.php:556
+msgid "Allow %s to receive administration email address"
+msgstr ""
+
+#. translators: CleverNode Support Team
+#: inc/Classes/Settings_API_Fields.php:556
+msgid "CleverNode Support Team"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:562
+msgid "✓ Connected to CleverNode"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:562
+msgid "Connect to CleverNode"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:566
+msgid "Connection status"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:569
+msgid "OK"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:571
+msgid "Your site is not connected..."
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:588
+#: inc/Modules/Settings.php:298
+msgid "Setup Connection"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:589
+msgid "Apply for free membership in our service or enter your Account."
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:594
+msgid "Already a subscriber?"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:605
+msgid "Account"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:613
+msgid "Account Email"
+msgstr ""
+
+#: inc/Classes/Settings_API_Fields.php:624
+msgid "Activate plugin"
+msgstr ""
+
+#: inc/Modules/Connection.php:158
+msgid "Site successfully connected! All done."
+msgstr ""
+
+#: inc/Modules/Connection.php:197
+#: inc/Modules/Connection.php:217
+msgid "There is an error, please report error code to support team."
+msgstr ""
+
+#: inc/Modules/Settings.php:117
+msgid "Settings"
+msgstr ""
+
+#: inc/Modules/Settings.php:139
+msgid "CleverNode Settings"
+msgstr ""
+
+#: inc/Modules/Settings.php:140
+msgid "CleverNode"
+msgstr ""
+
+#: inc/Modules/Settings.php:231
+msgid "Open Graph enabled?"
+msgstr ""
+
+#. translators: link to facebook developer console to check open graph
+#: inc/Modules/Settings.php:235
+msgid "<a href=\"https://developers.facebook.com/tools/debug/?q=%s\" target=\"_blank\">Find out</a> if your site uses Open Graph and enable this setting if so"
+msgstr ""
+
+#: inc/Modules/Settings.php:243
+msgid "Title filter"
+msgstr ""
+
+#: inc/Modules/Settings.php:244
+msgid "Insert HTML to omit from the Title tag"
+msgstr ""
+
+#: inc/Modules/Settings.php:247
+msgid "ex: Site Name - "
+msgstr ""
+
+#: inc/Modules/Settings.php:256
+msgid "Default image"
+msgstr ""
+
+#: inc/Modules/Settings.php:257
+msgid "If the featured image is not set for the post, you can upload an image to display"
+msgstr ""
+
+#: inc/Modules/Settings.php:268
+msgid "Enable filter or shortcode"
+msgstr ""
+
+#: inc/Modules/Settings.php:271
+msgid "Enable <em>the_content</em> filter"
+msgstr ""
+
+#: inc/Modules/Settings.php:272
+msgid "Enable and insert shortcode <code>[clevernode-related]</code> in post content"
+msgstr ""
+
+#: inc/Modules/Settings.php:310
+msgid "Meta Tags"
+msgstr ""
+
+#: inc/Modules/Settings.php:312
+msgid "<p>This plugin inserts some meta tags in single posts, which are useful for gathering the necessary information.</p><p>If your site uses <strong><abbr title=\"Open Graph is a technology first introduced by Facebook in 2010 that allows integration between Facebook and its user data and a website. By integrating Open Graph meta tags into your page's content, you can identify which elements of your page you want to show when someone share's your page.\">OG Tags</abbr></strong> you can enable the setting, otherwise you can choose which image to show if the post does not have a featured one and if necessary insert the <em>prefix</em> or <em>suffix</em> of your post in the title tag."
+msgstr ""
+
+#: inc/Modules/Settings.php:321
+msgid "Display"
+msgstr ""
+
+#: inc/Modules/Settings.php:323
+msgid "<p>This plugin auto inserts a <strong>script tag</strong> after the content of single post to display related articles.<br>You can choose to insert the <strong>shortcode</strong> manually instead, if you want to place related posts elsewhere on the page.</p>"
+msgstr ""
+
+#: inc/Modules/Settings.php:333
+msgid "Get Support"
+msgstr ""
+
+#: inc/Modules/Settings.php:400
+msgid "CleverNode Plugin Settings"
+msgstr ""
+
+#: inc/Plugin_Setup.php:222
+msgid "AMP Compatible"
+msgstr ""
+
+#. translators: placeholder is the plugin name.
+#: inc/Plugin_Setup.php:310
+msgid "Hey, we noticed that you have been using %s for 10 days, thank you!"
+msgstr ""
+
+#. translators: placeholder is the plugin name.
+#: inc/Plugin_Setup.php:310
+msgctxt "Plugin name in review notice"
+msgid "CleverNode Related Content"
+msgstr ""
+
+#: inc/Plugin_Setup.php:312
+msgid "Would you please leave your review so our plugin is well-known?"
+msgstr ""
+
+#: inc/Plugin_Setup.php:314
+msgid "Yes, you deserve it"
+msgstr ""
+
+#: inc/Plugin_Setup.php:315
+msgid "No, maybe later"
+msgstr ""
+
+#: inc/Plugin_Setup.php:316
+msgid "I've already done"
+msgstr ""

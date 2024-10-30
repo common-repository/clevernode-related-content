@@ -1,0 +1,22 @@
+{
+    "name": "metup/clevernode-related-content",
+    "description": "CleverNode Wordpress Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Metup",
+            "email": "clevernode@metup.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "rbdwllr/reallysimplejwt": "^4.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "CleverNodeRCFree\\" : "./inc"
+        }
+    }
+}
